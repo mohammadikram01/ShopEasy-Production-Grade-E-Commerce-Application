@@ -5,7 +5,7 @@ ShopEasy is a production-grade, cloud-native e-commerce application built to dem
 This repository represents Version 2.0 of the application, which includes major UI improvements, functional enhancements, and an automated deployment workflow aligned with real-world DevOps practices.
 
 
-Architecture Overview
+              Architecture Overview
 
           Developer → GitHub → Jenkins (CI)
                      ↓
@@ -107,8 +107,10 @@ Repository Structure
 ├── Dockerfile
 
 ├── k8s/
+
 │   ├── deployment.yml
 │   └── service.yml
+
 └── argocd/
     └── application.yml
 
