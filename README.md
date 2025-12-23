@@ -1,31 +1,9 @@
-                                           ShopEasy – Production Grade E-Commerce Application (v2.0)
+ShopEasy – Production Grade E-Commerce Application (v2.0)
 
-ShopEasy is a production-grade, cloud-native e-commerce application built to demonstrate modern CI/CD and GitOps practices using Jenkins, Docker, Kubernetes (AWS EKS), and Argo CD.
+ShopEasy is a production-grade, cloud-native e-commerce application built to demonstrate modern CI/CD and GitOps practices using Jenkins, Docker, Kubernetes (AWS EKS), and Argo CD.  
+This repository represents Version 2.0 of the application, which includes major UI improvements, functional enhancements, and an automated deployment workflow aligned with real-world DevOps practices.  
 
-This repository represents Version 2.0 of the application, which includes major UI improvements, functional enhancements, and an automated deployment workflow aligned with real-world DevOps practices.
-
-
-              Architecture Overview
-
-          Developer → GitHub → Jenkins (CI)
-                     ↓
-                     
-              Docker Image Build & Push
-                     ↓
-                     
-          Kubernetes Manifests Repository
-                     ↓
-                     
-                Argo CD (GitOps)
-                     ↓
-                     
-           AWS EKS Kubernetes Cluster
-                     ↓
-                     
-               ShopEasy Web Application
-
-Technology Stack
-
+Technology Stack  
 Application:
 
 Backend: Flask (Python)  
