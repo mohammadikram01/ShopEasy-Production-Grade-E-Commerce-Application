@@ -26,7 +26,8 @@ This repository represents Version 2.0 of the application, which includes major 
 
 Technology Stack
 
-Application  
+Application:
+
 Backend: Flask (Python)  
 Frontend: HTML, CSS, Bootstrap  
 
