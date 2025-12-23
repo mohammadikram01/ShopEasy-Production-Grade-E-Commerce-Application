@@ -69,31 +69,24 @@ Automatically synchronizes changes to the EKS cluster
 Provides application health monitoring and deployment visibility
 
 Version History 
+
 Version 1.0 – Initial Release
 
 Basic Flask e-commerce application
-
 Dockerized application
-
 Kubernetes deployment on AWS EKS
 
 
 
 Version 2.0 – Feature Enhancement Release (Current)
+
 Complete UI redesign
-
 Product catalog with categories
-
 Order tracking interface
-
 User account UI
-
 Wishlist and cart indicators
-
 Updated footer with versioning and author details
-
 Refactored codebase for better maintainability
-
 Stable GitOps-based deployment workflow
 
 Repository Structure
